@@ -1,0 +1,21 @@
+{
+    "name": "internalphp/validator",
+    "description": "Easy to use validation library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "validation",
+        "php validation library"
+    ],
+    "authors": [
+        {
+            "name": "Ashish K. Poudel"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "InternalPhp\\Validator\\": "src"
+        }
+    }
+}
